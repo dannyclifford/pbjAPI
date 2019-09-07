@@ -1,0 +1,27 @@
+The motion class has several definitions of movements required in the process of making a peanut butter and jelly sandwich.
+
+The general movements include:
+  - untwist (counterclockwise)
+  - twist (clockwise)
+  - grab
+  - spread
+  - scoop
+  
+  grab(thingToGrab) ->
+    with your non dominant hand open
+    place your fingers on the outside of the thingToGrab
+    squeeze until approximatedly 2 lbs of force on each finger is placed
+    move your arm upward and toward your chest until it reaches 8 inches in front of your nipples
+    if you no longer have thingToGrab in your hand -> repeat the process with 3lbs of force on each finger and recalibrate your force functions
+    
+    
+    
+  untwist(thingToUnTwist, direction) ->
+    grab(thingToUntwist)
+    with your dominant hand
+    place your fingers on the lid of the container 
+    squeeze as hard as you can with your dominant hand to create the most friction possible between your fingertips and the lid
+    rotate it about the center point of the lid direction
+    
+  spread ->
+    
