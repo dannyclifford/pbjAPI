@@ -1,0 +1,22 @@
+import motion class
+
+open the bread by untwist(ziptie)
+grab(bread)
+place bread on plate
+if (!plate) -> place bread on table
+grab(peanut butter)
+untwist(peanut butter jar, counterclockwise)
+scoop(peanut butter)
+grab(piece of bread)
+peanut buttered piece of bread = spread(peanut butter, bread)
+
+grab(jelly)
+untwist(jelly jar, counterclockwise)
+scoop(jelly)
+grab(non peanut buttered piece of bread)
+spread(jelly, bread)
+
+grab(peanut buttered piece of bread)
+place jelly piece of bread on top of peanut buttered piece of bread)
+
+enjoy
